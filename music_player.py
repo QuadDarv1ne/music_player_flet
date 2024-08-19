@@ -375,7 +375,7 @@ class MusicPlayer:
             height=180,
             fit=ft.ImageFit.CONTAIN,
             rotate=ft.transform.Rotate(0, alignment=ft.alignment.center),
-            animate_rotation=ft.animation.Animation(300, ft.AnimationCurve.EASE_IN_CIRC),
+            animate_rotation=ft.animation.Animation(300, ft.AnimationCurve.LINEAR),
         )
 
         main_content = ft.Card(
