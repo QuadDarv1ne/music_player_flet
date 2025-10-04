@@ -1,5 +1,7 @@
 # Music-Player-Flet
 
+[![DOI](https://zenodo.org/badge/844093418.svg)](https://doi.org/10.5281/zenodo.17264444)
+
 ![img.png](img/light.png)
 
 ## Описание приложения:
