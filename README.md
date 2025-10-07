@@ -1,6 +1,7 @@
 # Music-Player-Flet
 
 [![DOI](https://zenodo.org/badge/844093418.svg)](https://doi.org/10.5281/zenodo.17264444)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7605--539X-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7605-539X)
 
 ![img.png](img/light.png)
 
