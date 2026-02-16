@@ -57,6 +57,12 @@ music_player_flet/
 2. 2
 3. 3
 
-#### 💼 Автор: Дуплей Максим Игоревич
-#### 📲 Telegram: @QuadD4rv1n7
-#### 📅 Дата: 18.08.2024 
+---
+
+💼 **Автор:** Дуплей Максим Игоревич
+
+📲 **Telegram:** @QuadD4rv1n7
+
+📅 **Дата:** 18.08.2024 
+
+[![Star History Chart](https://api.star-history.com/svg?repos=QuadDarv1ne/music_player_flet&type=Date)](https://star-history.com/#QuadDarv1ne/music_player_flet&Date)
